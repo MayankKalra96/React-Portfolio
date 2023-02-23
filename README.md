@@ -25,6 +25,9 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
+## Walkthrough Video
+Drive : https://drive.google.com/file/d/12M5IpKsawr4YIdPvpcq1Y5icdJ0P8BMv/view?usp=share_link
+
 ## Usage 
 Please click the link below to open my Portfolio:
-
+https://my-portfolio-react.herokuapp.com/ 
